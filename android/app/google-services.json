@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424917187366",
+    "firebase_url": "https://toma-precios.firebaseio.com",
+    "project_id": "toma-precios",
+    "storage_bucket": "toma-precios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424917187366:android:eff520538f1f900267dfe7",
+        "android_client_info": {
+          "package_name": "Toma.Precios.TRV"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424917187366-s3jip9i37u2p946jj2538sublrlj9bhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Toma.Precios.TRV",
+            "certificate_hash": "329f94159dcf83eb6c9dbd050abb8a650479ef7a"
+          }
+        },
+        {
+          "client_id": "424917187366-24t1at4qbe3op0pbi2ef05vs1vcjj47k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYzRFqTyZxi9iFK4MMcr6X2KxEccaPXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424917187366-24t1at4qbe3op0pbi2ef05vs1vcjj47k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
